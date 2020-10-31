@@ -9,3 +9,5 @@ Per far funzionare la repository oltre a Git installato sul pc
  https://git-lfs.github.com/
  
  Better use Pycharm
+ 
+ geohpdbwljfèhfnHBLVNAJPHJXD ,MODJB FSDJHVBVS

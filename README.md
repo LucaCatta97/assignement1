@@ -15,7 +15,8 @@ Per far funzionare la repository oltre a Git installato sul pc
 
 1)TODO pulire dati:
 
-a) Togliamo gli outlier usnado il Winsorizing però selezioniamo i percentili manualmente in base
+a) TODO c'è da verificare che il Timestamp siano corretti e corrispondenti con Trip second
+a) TODO Togliamo gli outlier usnado il Winsorizing però selezioniamo i percentili manualmente in base
     alla forma dei dati
     
     **CONCLUSIONI di Luca del 31/10/2020** gli outlier principali sono Trips Second and Trips Miles. Secondo me

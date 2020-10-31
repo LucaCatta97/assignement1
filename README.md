@@ -11,7 +11,7 @@ Per far funzionare la repository oltre a Git installato sul pc
  Better use Pycharm
  
  
- #%% md
+ #ORGANIZZAZIONE
 
 1)TODO pulire dati:
 

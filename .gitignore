@@ -16,7 +16,6 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
-/data/*
 .idea/inspectionProfiles/Project_Default.xml
 .idea/webResources.xml
 .idea/vcs.xml

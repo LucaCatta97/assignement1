@@ -1,4 +1,4 @@
-# assignement1
+# Assignment #1
 
 
 
@@ -11,7 +11,7 @@ Per far funzionare la repository oltre a Git installato sul pc
  Better use Pycharm
  
  
- #ORGANIZZAZIONE
+ ##ORGANIZZAZIONE
 
 ####1)TODO pulire dati:
 

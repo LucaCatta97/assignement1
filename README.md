@@ -28,13 +28,14 @@ d)si genera file csv pulito. (spazi con underscore)
 
 Il dataset del Tempo sembra pulito, ho sistemato le colonne con nomi umani.
 
+~~**TODO** Fare trimming o winsorizing (_scegliere bene!_) delle categorie rimaste da fare~~
+
 ####2)TODO Visualization:
 
 a) Nuovo notebook per visualizzazione idee per la visualizzazione + Carman:
 
 **TODO** Compara costi medi tra le varie compagnie di taxi
 
-**TODO** Fare trimming o winsorizing (_scegliere bene!_) delle categorie rimaste da fare
 
 **TODO** Vedi pickup e dropoff a seconda dell'orario (sotto forma di heatmap?)
 
@@ -48,4 +49,4 @@ a) Nuovo notebook per visualizzazione idee per la visualizzazione + Carman:
 orario di punta (6:00-9:00/18:00-21:00)
 
 ####3)Prediction model
-b)Finita la visualizzazione nuovo notebook per prediction Carman + idee
+a)Finita la visualizzazione nuovo notebook per prediction Carman + idee

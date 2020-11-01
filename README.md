@@ -13,28 +13,22 @@ Per far funzionare la repository oltre a Git installato sul pc
  
  ##ORGANIZZAZIONE
 
-####1)TODO pulire dati:
+####1) pulire dati:
 
-a) TODO c'è da verificare che il Timestamp siano corretti e corrispondenti con Trip second
-a) TODO Togliamo gli outlier usnado il Winsorizing però selezioniamo i percentili manualmente in base
+a) Stando alla docomentazione la durata in secondi non concide con la differenza dei time stamp in quanto sono arrotondati al quarto d'ora
+
+b) Togliamo gli outlier usando il Winsorizing/Trimming però selezioniamo i percentili manualmente in base
     alla forma dei dati
-    
-    **CONCLUSIONI di Luca del 31/10/2020** gli outlier principali sono Trips Second and Trips Miles. Secondo me
-    è meglio applicare il trimming invece del Winsorizing almeno per i valori oltre il 99.9th percentile
-    mentre quelli sotto si riallineano col Winsorizing.
-    Anche perchè di quel 0,1% saranno riferiti a viaggi extra chicago quindi inoltre i Nan dei Geodata sono lo 0,07%
-
 b) Calcoliamo le statistiche
 
-c) I NAN dei GeoData li togliamo la riga. Gli altri li sostituiamo con la mediana/media
-  
-  **ATTENZIONE** STANDO AL SITO HA SENSO CHE I GEODATA NON ABBIANO VALORI PERCHè SONO
-  FUORI CHIACAGO
+c) I NAN dei GeoData non li togliamo la riga in quanto hanno senso ora che sono stati tolti li outlier
+sono comunque possibili i viaggi fuori chicago.
 
-d) si genera file csv pulito. (spazi con underscore e tutto minuscole)
+d)si genera file csv pulito. (spazi con underscore)
 
+Il dataset del Tempo sembra pulito, ho sistemato le colonne con nomi umani.
 
-####2) Finita la pulizia:
+####2)TODO Visualization:
 
 a) Nuovo notebook per visualizzazione idee per la visualizzazione + Carman:
 
@@ -53,5 +47,5 @@ a) Nuovo notebook per visualizzazione idee per la visualizzazione + Carman:
 **TODO** Media mesi e confronto (grafico diviso per giorni/settimane e spostamenti infrasettimanale (weekend e lavorativo),
 orario di punta (6:00-9:00/18:00-21:00)
 
-
+####3)Prediction model
 b)Finita la visualizzazione nuovo notebook per prediction Carman + idee

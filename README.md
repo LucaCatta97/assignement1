@@ -40,6 +40,8 @@ a) Nuovo notebook per visualizzazione idee per la visualizzazione + Carman:
 
 **TODO** Compara costi medi tra le varie compagnie di taxi
 
+**TODO** Fare trimming o winsorizing (_scegliere bene!_) delle categorie rimaste da fare
+
 **TODO** Vedi pickup e dropoff a seconda dell'orario (sotto forma di heatmap?)
 
 **TODO** Preferenze di pagamento: gli utenti preferiscono pagare con carta se la cifra è piccola o grande? (contactless?)

@@ -34,18 +34,18 @@ Il dataset del Tempo sembra pulito, ho sistemato le colonne con nomi umani.
 
 a) Nuovo notebook per visualizzazione idee per la visualizzazione + Carman:
 
-**TODO** Compara costi medi tra le varie compagnie di taxi
+~~**TODO** Compara costi medi tra le varie compagnie di taxi~~
 
 
-**TODO** Vedi pickup e dropoff a seconda dell'orario (sotto forma di heatmap?)
+**TODO** ~~Vedi pickup e dropoff a seconda dell'orario~~ (sotto forma di heatmap?) **FATTO in locale ma è tutto influenzato dal COVID**
 
 ~~**TODO** Preferenze di pagamento: gli utenti preferiscono pagare con carta se la cifra è piccola o grande? (contactless?)~~
 
-**TODO** ~~Vedi effetti lockdown su mobilità~~, prezzi, entrate compagnie, pickup e dropoff (più viaggi verso gli ospedali?)
+**TODO** ~~Vedi effetti lockdown su mobilità~~, prezzi, entrate compagnie, _~~pickup e dropoff (più viaggi verso gli ospedali?~~ **Fatto in locale si riducono i viaggi ovunque**)_
 
 **TODO** Vedi effetti del meteo su utilizzo dei taxi (serve però l'altro csv)
 
-**TODO** Media mesi e confronto (grafico diviso per giorni/settimane e spostamenti infrasettimanale (weekend e lavorativo),
+**TODO** ~~Media mesi e confronto~~ (grafico diviso per giorni/settimane e spostamenti infrasettimanale (weekend e lavorativo),
 orario di punta (6:00-9:00/18:00-21:00)
 
 ####3)Prediction model

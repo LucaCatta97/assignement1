@@ -39,9 +39,9 @@ a) Nuovo notebook per visualizzazione idee per la visualizzazione + Carman:
 
 **TODO** Vedi pickup e dropoff a seconda dell'orario (sotto forma di heatmap?)
 
-**TODO** Preferenze di pagamento: gli utenti preferiscono pagare con carta se la cifra è piccola o grande? (contactless?)
+~~**TODO** Preferenze di pagamento: gli utenti preferiscono pagare con carta se la cifra è piccola o grande? (contactless?)~~
 
-**TODO** Vedi effetti lockdown su mobilità, prezzi, entrate compagnie, pickup e dropoff (più viaggi verso gli ospedali?)
+**TODO** ~~Vedi effetti lockdown su mobilità~~, prezzi, entrate compagnie, pickup e dropoff (più viaggi verso gli ospedali?)
 
 **TODO** Vedi effetti del meteo su utilizzo dei taxi (serve però l'altro csv)
 
